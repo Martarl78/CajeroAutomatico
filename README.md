@@ -66,6 +66,3 @@ UD01_Actividad05_CajeroAutomatico/
 └── README.md
 ```
 
-## 👤 Autor
-
-Nombre y Apellidos — PMDM, UD01
